@@ -1,0 +1,32 @@
+/*
+ *
+ * Styles for the @luiabooya test app. Written with love by @luiabooya and @dsonger.
+ *
+ */
+
+/* === UTILITY CLASSES === */
+.right {
+	float: right;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.no-italic-no-bold {
+	font-style: normal;
+}
+/* === END UTILITY CLASSES === */
+
+body{
+	padding: 10px;
+}
+
+.david-note {
+	font-family: "Arial";
+	margin-top: 40px;
+}
+
+.poem {
+	font-family: "Times";
+}
