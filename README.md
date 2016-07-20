@@ -1,12 +1,12 @@
 README for the @luiabooya test repository
-
-=== PURPOSE ===
+<br><br>
+=== PURPOSE ===<br>
 Experiment with Git, HTML, CSS, JS, and other web stuff
-
-=== FIRST ITERATION ===
+<br><br>
+=== FIRST ITERATION ===<br>
 A love sonnet for @dsonger that was primarily a git experiment
-
-=== SECOND ITERATION (proposed) ===
+<br><br>
+=== SECOND ITERATION (proposed) ===<br>
 @dsonger forked and submitted pull request to:
 1) Add <html> tags to sonnet.html (minor bug fix)
 2) Add a love haiku back to @luiabooya in sonnet.html
