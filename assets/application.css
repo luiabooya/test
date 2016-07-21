@@ -30,3 +30,25 @@ body{
 .poem {
 	font-family: "Times";
 }
+
+.sonnet {
+	font-family: "Georgia";
+}
+.line_1 {
+	color: #cc99ff;
+}
+.line_2 {
+	color: #ff99ff;
+}
+.line_3 {
+	color: #99c2ff;
+}
+.line_4 {
+	color: #9fdf9f;
+}
+.line_5 {
+	color: #ffbf80;
+}
+.line_6 {
+	color: #ff8080;
+}
